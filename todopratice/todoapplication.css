@@ -1,0 +1,100 @@
+.todos-heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.sectodos-heading{
+    font-weight: lighter;
+}
+
+.text-box{
+  background-color: white;
+  width: 80%;
+  border-style: solid;
+  border-width: 3px;
+  border-color: #e4e7eb;
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 15px;
+
+}
+
+.todo-user-input{
+  width: 80%;
+}
+
+.add-button{
+    background-color: blue;
+    height: 40px;
+    width: 70px;
+    padding: 3px;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    margin-top: 10px;
+}
+
+.todo-items-container {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .todo-item-container {
+    margin-top: 15px;
+  }
+  .label-container {
+  background-color: #e6f6ff;
+  width: 70%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #096f92;
+  border-right: none;
+  border-top: none;
+  border-bottom: none;
+  border-radius: 4px;
+}
+
+.checkbox-input {
+  width: 20px;
+  height: 20px;
+  margin-top: 12px;
+  margin-right: 12px;
+}
+
+.checkbox-label {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-weight: 400;
+  width: 82%;
+  margin: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 5px;
+}
+
+.delete-icon-container {
+  text-align: right;
+  width: 18%;
+}
+
+.delete-icon {
+  padding: 15px;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.button{
+  background-color: blue;
+  padding: 3px;
+  height: 40px;
+  width: 70px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  margin-top: 5px;
+}
